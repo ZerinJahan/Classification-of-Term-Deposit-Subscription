@@ -1,2 +1,2 @@
-# Classification-of-Term-Deposit-Subscription
- Bank Term deposite classification using various machine learning algorithms
+# Classification of Term Deposit Subscription on Bank Client Data Using Supervised Algorithms
+The project titled "Classification of Term Deposit Subscription on Bank Client Data Using Supervised Algorithms" aims to classify whether a bank client will subscribe to a term deposit. It involves statistical analysis and feature analysis of the data, using SMOTE to handle class imbalance. Various supervised algorithms are applied to perform the classification, with cloud computing support provided via Azure Studio. The project is implemented in Python using Jupyter Notebook, and tools like TensorFlow, Keras, Pandas, NumPy, Scikit-learn, and Matplotlib are used for modelling and visualisation.
